@@ -15,3 +15,7 @@ Through API we try to connect with each datasources which will provide the detai
 We pick each of the candidates and sent them an email based which will have all the link for the doodle challenge.
 
 Data sources
+
+We are picking GitHub as our main data Source 
+
+
