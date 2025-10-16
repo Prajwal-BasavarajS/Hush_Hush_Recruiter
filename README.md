@@ -22,3 +22,7 @@ Architecture
 
 <img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/b654158d-eb26-4175-8266-8c9911af38e1" />
 
+
+
+We employ a Logistic Regression model enhanced with probability-based prediction techniques to intelligently evaluate and shortlist the top 25 most suitable candidates from the aggregated database. Each shortlisted candidate is then automatically notified via email, which includes a secure, time-bound link to an online coding environment. Within this environment, candidates must complete a programming challenge designed to assess their technical proficiency under realistic conditions. Once the submissions are received, the system performs a comprehensive evaluation by combining the coding performance score with the model’s predicted probability score, resulting in a ranked list of candidates. This ranked output is then presented to the HR manager, who uses these data-driven insights — alongside organizational priorities — to make the final hiring decisions, determining which candidates will advance in the recruitment process.
+
