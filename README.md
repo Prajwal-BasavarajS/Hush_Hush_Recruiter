@@ -18,4 +18,7 @@ Data sources
 
 We are picking GitHub as our main data Source 
 
+Architecture
+
+<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/b654158d-eb26-4175-8266-8c9911af38e1" />
 
